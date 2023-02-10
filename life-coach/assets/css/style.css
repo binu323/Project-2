@@ -1,0 +1,1057 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    margin: 0px auto;
+    max-width: 1225px;
+}
+/*main header css start*/
+section.main-header .row .col-md-8 {}
+
+.main-header-right ul li {
+    display: inline-block;
+    padding: 11px;
+}
+
+.main-header-left h3 {
+    font-weight: 600;
+    padding: 20px;
+    font-size: 32px;
+    padding-left: 0px;
+}
+
+.main-header-right ul li a {
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+}
+.main-header-right ul {
+    text-align: right;
+    padding-top: 21px;
+}
+
+section.main-header {
+    box-shadow: 0px 2px 8px #efefef;
+}
+
+.main-header-right ul li a i {
+    font-weight: 600;
+    font-size: 18px;
+}
+.main-header-right ul li a i:hover {
+    color: #000;
+}
+
+.main-header-right ul li a:hover {
+    color: #999;
+}
+/*main header css end*/
+/*img with text css start*/
+.image-text-left img {
+    width: 100%;
+    height: 766px;
+    object-fit: cover;
+}
+
+section.image-text {}
+
+section.image-text .row .col-md-6 {
+    padding: 0px;
+}
+
+.image-text-right .text-upper {
+    padding: 26px 36px;
+}
+
+.image-text-right .text-upper h3 {
+    color: #aeb8b8!important;
+    font-weight: 600;
+    padding-top: 20px;
+    font-size: 32px;
+}
+
+.image-text-right .text-upper p {
+    color: #737a7a!important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.image-text-right .text-upper h1 {
+    font-size: 41px;
+    font-weight: 500;
+    padding: 20px 0px;
+}
+
+.text-upper-btn {}
+
+.image-text-right .text-upper .text-upper-btn button {
+    padding: 14px;
+    background: #ffb356;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: 700;
+    border: 2px solid #ffb356;
+    border-radius: 26px;
+    font-size: 15px;
+    width: 140px;
+}
+
+.image-text-right .text-upper .text-upper-btn {
+}
+.text-down {
+    display: flex;
+    min-height: 400px;
+    color: #fff;
+}
+
+.text-down .text-down-box-1 {
+    background: #becedb;
+    margin-right: 24px;
+    padding: 34px;
+    font-weight: 500;
+}
+
+.text-down .text-down-box-2 {
+    background: #becedb;
+    margin-left: 60px;
+    padding: 34px;
+    font-weight: 500;
+}
+
+.text-down .text-down-box-1 h2 {
+    font-size: 22px;
+    color: #000;
+    padding-top: 20px;
+}
+
+.text-down .text-down-box-2 h2 {
+    font-size: 22px;
+    color: #000;
+    padding-top: 20px;
+}
+.text-down p {
+    line-height: 26px;
+    color: #666666a6;
+}
+.text-down-box-btn button {
+    background: #d8e2e9;
+    color: #666;
+    padding: 8px;
+    letter-spacing: 2px;
+    border-radius: 26px;
+    border: 2px solid #d8e2e9;
+    font-weight: 700;
+}
+
+.text-down-box-btn {
+    padding-top: 14px;
+}
+/*img with text css end*/
+/*four box css start*/
+
+section.four-box {
+    /* background-color: #ffb356; */
+    /* min-height: 420px; */
+    /*clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0% 100%);*/
+    position: relative;
+    /* top: 760px; */
+}
+
+section.four-box .row {
+    /* padding: 166px 10px; */
+}
+
+.four-box .four-same-box-1 {
+    color: #fff;
+    /* position: absolute; */
+    text-align: center;
+    padding: 112px 0px;
+    /*background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 85%);*/
+    /* top: -152px; */
+    height: 485px;
+}
+.four-box .four-same-box-2 {
+    color: #fff;
+    /* position: absolute; */
+    text-align: center;
+    padding: 112px 0px;
+    /*background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 85%);*/
+    /* top: -152px; */
+    height: 485px;
+}
+.four-box .four-same-box-3 {
+    color: #fff;
+    /* position: absolute; */
+    text-align: center;
+    padding: 112px 0px;
+    /*background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 85%);*/
+    /* top: -152px; */
+    height: 485px;
+}
+.four-box .four-same-box-4 {
+    color: #fff;
+    /* position: absolute; */
+    text-align: center;
+    padding: 112px 0px;
+    /*background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 85%);*/
+    /* top: -152px; */
+    height: 421px;
+}
+
+.four-same-box-1 span i {
+    color: #000;
+    font-size: 30px;
+    position: absolute;
+    top: 75px;
+    left: 152px;
+}.four-same-box-2 span i {
+    color: #000;
+    font-size: 30px;
+    position: absolute;
+    top: 75px;
+    left: 152px;
+}.four-same-box-3 span i {
+    color: #000;
+    font-size: 30px;
+    position: absolute;
+    top: 75px;
+    left: 152px;
+}.four-same-box-4 span i {
+    color: #000;
+    font-size: 30px;
+    position: absolute;
+    top: 75px;
+    left: 152px;
+}
+.four-same-box span {}
+
+.four-same-box-1 h3 {
+    font-size: 21px;
+    font-weight: 600;
+    padding: 12px 0px;
+}
+.four-same-box-2 h3 {
+    font-size: 21px;
+    font-weight: 600;
+    padding: 12px 0px;
+}
+.four-same-box-3 h3 {
+    font-size: 21px;
+    font-weight: 600;
+    padding: 12px 0px;
+}
+.four-same-box-4 h3 {
+    font-size: 21px;
+    font-weight: 600;
+    padding: 12px 0px;
+}
+
+.four-same-box-1 p {
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+}
+.four-same-box-2 p {
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+}
+.four-same-box-3 p {
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+}
+.four-same-box-4 p {
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+section.four-box .row .col-md-3 {
+    /* box-shadow: -4px -12px 10px -3px #ff9800; */
+    /* background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 85%); */
+    /* clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0% 100%); */
+    padding: 0;
+}
+
+.four-same-box-1 button {
+    padding: 6px;
+    background-color: #ffecd3;
+    border: 2px solid #ffecd3;
+    border-radius: 26px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    width: 140px;
+}
+.four-same-box-2 button {
+    padding: 6px;
+    background-color: #ffecd3;
+    border: 2px solid #ffecd3;
+    border-radius: 26px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    width: 140px;
+}
+.four-same-box-3 button {
+    padding: 6px;
+    background-color: #ffecd3;
+    border: 2px solid #ffecd3;
+    border-radius: 26px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    width: 140px;
+}
+.four-same-box-4 button {
+    padding: 6px;
+    background-color: #ffecd3;
+    border: 2px solid #ffecd3;
+    border-radius: 26px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    width: 140px;
+}
+.four-same-box-1 {
+    min-height: 312px;
+    padding-top: 26px;
+    background-color: linear-gradient(180deg,#ffd088 0%,#ffb356 85%);
+    background-image: linear-gradient(180deg,#ffd088 0%,#ffb356 70%);
+}
+
+.four-same-box-2 {
+    background-image: linear-gradient(180deg,#ffd088 0%,#ffbe6b 70%);
+    min-height: 312px;
+    padding-top: 26px;
+}
+
+.four-same-box-3 {
+    min-height: 312px;
+    padding-top: 26px;
+    background-image: linear-gradient(180deg,#ffd088 0%,#ffc882 70%);
+}
+
+.four-same-box-4 {
+    min-height: 312px;
+    padding-top: 26px;
+    background-image: linear-gradient(180deg,#ffd088 0%,#ffd6a0 70%);
+}
+/*four box css end*/
+/*unlock-text css start*/
+section.unlock-text{
+    background-image: linear-gradient(180deg,#345168 5%,rgba(219,219,219,0) 100%),url(../../assets/img/landing-img/first-bg.jpg)!important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 720px;
+    position: relative;
+}
+section.unlock-text .row {
+    padding-top: 100px;
+}section.unlock-text::after {
+    content: "";
+    background: #345168;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: 99.9%;
+    height: 56%;
+    width: 100%;
+}
+
+.unlock-text .unlock-text-left {
+    color: #fff;
+    text-align: right;
+}
+
+.unlock-text .unlock-text-left h1 {
+    padding-left: 108px;
+    line-height: 62px;
+    font-size: 46px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.unlock-text .unlock-text-left h3 {
+    font-size: 21px;
+}
+
+.unlock-text .unlock-text-left p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+}
+
+.unlock-text .unlock-text-left button {
+    width: 202px;
+    padding: 14px;
+    border-radius: 26px;
+    border: 2px solid #ffffff;
+    background: #ffffff;
+    color: #cdb6a6!important;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.unlock-text-right ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+.unlock-text-right ul li i {
+    background: #fff;
+    padding: 4px;
+    border-radius: 11px;
+    font-size: 14px;
+    color: #000;
+}
+
+.unlock-text-right ul li a {margin-left: 23px;line-height: 34px;color: #fff;font-weight: 500;}
+
+section.unlock-text .row .col-md-6 {
+    padding-left: 50px;
+}
+
+.unlock-text-right {}
+
+.unlock-text-right {
+    padding-top: 106px;
+}
+/*unlock-text css end*/
+
+/*life-coaching css start*/
+section.life-coaching {
+    min-width: 600px;
+}
+
+.life-coaching .life-coaching-left h1 {text-align: right;line-height: 60px;}
+
+section.life-coaching .row {
+    padding-top: 100px;
+}
+
+.life-coaching .life-coaching-left p {
+    text-align: right;
+    color: #666666ad;
+    font-weight: 500;
+    line-height: 30px;
+    font-size: 18px;
+    padding-left: 48px;
+}
+section.life-coaching {
+    min-width: 600px;
+    position: relative;
+}
+
+.life-coaching .life-coaching-left h1 {text-align: right;line-height: 60px;}
+
+section.life-coaching .row {
+    padding-top: 100px;
+}
+
+.life-coaching .life-coaching-left p {
+    text-align: right;
+    color: #666666ad;
+    font-weight: 500;
+    line-height: 30px;
+    font-size: 18px;
+    padding-left: 48px;
+}
+
+.life-coaching-right ul {
+    list-style: none;
+}
+.life-coaching-right ul li a {
+    padding: 10px 36px;
+    width: 100%;
+    color: #666;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 14px;
+}
+.life-coaching-right ul li {
+    padding: 14px 0px;
+    display: flex;
+    padding-left: 14px;
+    position: relative;
+    margin-right: 130px;
+}
+.life-coaching-right ul li i {
+    position: absolute;
+    right: 14px;
+    top: 28px;
+    font-size: 22px;
+}
+
+.life-coaching-right  li.li-1 {
+    background: #ccd8e5;
+}
+
+.life-coaching-right li.li-2 {
+    background: #dae1ed;
+}
+
+.life-coaching-right li.li-3 {
+    background: #e3e9ef;
+}
+
+.life-coaching-right li.li-4 {
+    background: #edf0f7;
+}
+
+.life-coaching-right li.li-5 {
+    background: #f4f7fc;
+}
+/*life-coaching css end*/
+/*just-img css start*/
+section.just-image img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+/*just-img css end*/
+
+/*anout me css start*/
+section.about-me {
+    background: #efefef;
+    position: relative;
+    /* padding-top: 48px; */
+}
+
+.about-me .about-me-left {
+    background: #fff;
+    min-height: 400px;
+    padding: 50px;
+    /* margin-top: -134px; */
+    z-index: 1;
+}
+
+.about-me-left {}
+
+.about-me .about-me-left h1 {
+    padding: 6px 0px;
+    font-size: 30px;
+}
+
+.about-me .about-me-left p {
+    color: #666;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+    padding: 12px;
+}
+
+.about-me .about-me-left button {
+    padding: 14px;
+    background: #ffb356;
+    width: 124px;
+    border-radius: 24px;
+    border: 2px solid #ffb356;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.about-me-left-btn {
+    /* text-align: center; */
+    padding: 16px 0;
+}
+
+.about-me-right {
+    background: #ffb356;
+    min-height: 230px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 72px;
+}
+
+.about-me-right h1 {
+    font-size: 30px;
+    padding: 6px 0;
+    color: #fff;
+}
+
+.about-me-right .about-me-right-ul ul {
+    list-style: none;
+}
+
+.about-me-right .about-me-right-ul ul li {
+    display: inline-block;
+}
+
+.about-me-right .about-me-right-email {text-align: center;}
+
+.about-me-right .about-me-right-email input[type="text"] {
+    width: 90%;
+    padding: 14px;
+    border-radius: 28px;
+    margin: 16px 0;
+    border: 2px solid #fff;
+    color: #999;
+}
+
+
+.about-me-right .about-me-right-email button {
+    width: 90%;
+    padding: 14px;
+    border-radius: 28px;
+    background: #345168;
+    border: 2px solid #345168;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.about-me-right-email .about-me-right-ul {}
+
+.about-me-right-ul li a i {
+    padding: 20px;
+    border: 2px solid #eda650;
+    border-radius: 37px;
+    background: #eda650;
+    margin: 6px;
+    color: #fff;
+    font-weight: 800;
+}
+
+.about-me-right-ul {
+    padding-top: 45px;
+}
+
+.about-me-right-ul li a i.fa.fa-facebook {
+    padding: 20px 25px;
+}
+
+.about-me-right-ul li a i.fa.fa-paypal {
+    font-family: 'FontAwesome';
+}
+
+li {}
+
+.about-me-right .about-me-right-ul ul li a {
+    font-family: 'FontAwesome';
+}
+
+section.about-me .row .col-md-6 {
+    padding: 0;
+    margin-top: -299px;
+}
+/*about me css end*/
+
+/*testimonials css start*/
+section.testimonials {
+    background: #efefef;
+    min-height: 700px;
+    text-align: center;
+}
+
+section.testimonials .testimonials-box {
+    background: #fff;
+    font-size: 19px;
+    font-style: italic;
+    color: #999;
+    text-align: left;
+    padding: 40px 24px;
+    line-height: 34px;
+}
+
+section.testimonials .row {
+    margin-top: 200px;
+}
+
+section.testimonials h2 {
+    padding-top: 100px;
+}
+/*testinomials css end*/
+/*online coaching css start*/
+section.online-coaching {
+    padding-top: 100px;
+    background: #efefef;
+    position: relative;
+}
+.online-coaching-h2 {
+    text-align: center;
+    padding: 50px 0px;
+}
+.online-coaching-box img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.online-coaching-box {
+    /*background: #fff;*/
+    padding: 32px;
+    min-height: 650px;
+}
+
+.online-coaching-box h4 {
+    font-size: 23px;
+    padding: 20px 0;
+}
+
+.online-coaching-box p {
+    line-height: 32px;
+    color: #999;
+    font-size: 20px;
+}
+
+.online-coaching-box button {
+    width: 110px;
+    padding: 7px;
+    border-radius: 28px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #fff;
+    background: #345168;
+    border: 2px solid #345168;
+}
+section.online-coaching .row .col-md-4 {
+    margin: 0;
+    padding: 0;
+}
+.online-coaching-box-2 {
+    background: #f7f7f7;
+}
+
+.online-coaching-box-1 {
+    background: #f2f2f2;
+}
+
+.online-coaching-box-3 {
+    background: #fcfcfc;
+}
+/*online coaching css end*/
+/* appointment css start */
+section.appointment {
+    min-height: 600px;
+    padding-top: 150px;
+    background-image: linear-gradient(180deg,#ffbe6b 0%,rgba(255,208,136,0.84) 70%),url(../../assets/img/landing-img/download.jpg)!important;
+    position: #ffbe6b!important;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.appointment .appointment-left {
+    background: linear-gradient(180deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0.18) 100%);
+    width: 100%;
+    text-align: right;
+    min-height: 570px;
+}
+
+section.appointment .row .col-md-6 {
+    padding: 0;
+}
+
+.appointment .appointment-left h2 {
+    color: #fff;
+    text-align: right;
+    padding: 50px;
+    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+}
+
+.appointment .appointment-left button {
+    padding: 10px;
+    border-radius: 28px;
+    width: 274px;
+    background: #fff;
+    border: 2px solid #fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #345168!important;
+}
+.appointment-left-btn {
+    padding-right: 50px;
+}
+
+.appointment-right {
+    color: #fff;
+}
+
+.appointment-right {}
+
+.appointment-right p {
+    padding: 50px 50px 0px 50px;
+    margin: 0;
+    font-size: 20px;
+    justify-content: space-between;
+}
+/*appointment css end*/
+/*footer-contact css start*/
+section.footer-contact {
+    background-image: linear-gradient(180deg,#345168 5%,rgba(219,219,219,0) 100%),url(../../assets/img/landing-img/second-bg.jpg)!important;
+    min-height: 650px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer-contact-wrapper h2 {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 40px;
+    padding: 40px 197px;
+    text-align: center;
+    line-height: 65px;
+}
+
+.footer-contact-wrapper input.email {
+    width: 60%;
+}
+
+.footer-contact-wrapper input.name {
+    width: 30%;
+    margin-right: 13px;
+}
+
+.footer-contact-wrapper input.number {
+    width: 28%;
+}
+
+.footer-contact-wrapper input.message {
+    width: 60%;
+    height: 160px;
+}
+
+.footer-contact-wrapper input {
+    padding: 10px;
+    border-radius: 4px;
+    margin: 8px;
+    color: #999;
+    border: 2px solid #fff;
+}
+
+.footer-contact-wrapper {text-align: center;}
+.footer-contact-btn button {
+    padding: 16px;
+    border-radius: 28px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: #fff;
+    background: #ffb356;
+    border: 2px solid #ffb356;
+}
+
+.footer-contact-btn {
+    text-align: right;
+    padding-right: 251px;
+    padding-top: 10px;
+}
+/*footer-contact css end*/
+/*footer css start*/
+footer p {
+    color: #666;
+    margin: 0;
+    padding: 20px;
+}
+
+footer {
+    background: #222;
+}
+
+.footer-right ul li i {
+    color: #666;
+    padding: 14px;
+    font-size: 22px;
+}
+.footer-right ul li i:hover {
+    color: #4b93ed;
+}
+.footer-right ul {
+    list-style: none;
+    margin: 0;
+    margin-top: 12px;
+}
+
+.footer-right ul li {
+    display: inline-block;
+}
+
+.footer-right {
+    text-align: right;
+}
+/*footer css end*/
+
+
+section.four-box::after {
+    content: "";
+    background: #ffd088;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: 99.9%;
+    height: 100%;
+    width: 100%;
+}
+
+section.life-coaching::after {
+    content: "";
+    background: #fff;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+section.just-image::after {
+    content: "";
+    background: #fff;
+    clip-path: polygon(100% 0, 0 55%, 0 0);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    bottom: 155%;
+}
+
+section.just-image {
+    position: relative;
+}
+
+section.appointment::after {
+    content: "";
+    background: #345168;
+    z-index: 9999999;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: -0.1%;
+    width: 100%;
+    height: 48%;
+}
+
+section.online-coaching::after {
+    content: "";
+    /* padding: 15% 50%; */
+    background: #ffbe6b;
+    z-index: 9999999;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: -0.1%;
+    height: 46%;
+    width: 100%;
+}
+
+section.about-me::after {
+    content: "";
+    background: #efefef;
+    clip-path: polygon(100% 65%, 100% 100%, 0 100%);
+    position: absolute;
+    bottom: 99%;
+    width: 100%;
+    height: 100%;
+}
+
+section.about-me .row {/* padding-bottom: 100px; *//* position: absolute; */}
+
+/*end of landing html*/
+
+/*start of contact html*/
+section.get-in-touch{
+    background-image: url(../../assets/img/contact-img/banner-1.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+
+}
+.get-in-touch-wrapper {
+    background: #5a7186a6;
+    min-height: 500px;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.get-in-touch-wrapper h1 {
+    font-size: 50px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.get-in-touch-wrapper p {font-weight: 500;font-size: 20px;}
+
+.life-coaching-right ul.ul-li li a {
+    padding: 10px 36px;
+    width: 100%;
+    color: #666;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    padding-left: 14px;
+}
+.life-coaching-right ul.ul-li li {
+    padding: 14px 0px;
+    display: flex;
+    padding-left: 14px;
+    position: relative;
+    margin-right: 130px;
+}
+.life-coaching-right ul.ul-li li i {
+    position: absolute;
+    right: 14px;
+    top: 28px;
+    font-size: 22px;
+}
+/*send a message css start*/
+.send-msg-left input.email {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background: #edf0f7;
+    color: #999;
+    border: 2px solid #edf0f7;
+}
+
+.send-msg-left input.name {
+    width: 46%;
+    padding: 10px;
+    border-radius: 8px;
+    background: #edf0f7;
+    color: #999;
+    border: 2px solid #edf0f7;
+    margin: 16px;
+    margin-left: 0;
+}
+
+.send-msg-left input.number {
+    width: 49%;
+    padding: 10px;
+    border-radius: 8px;
+    background: #edf0f7;
+    color: #999;
+    border: 2px solid #edf0f7;
+    margin-left: 13px;
+}
+
+.send-msg-left textarea.message {
+    height: 145px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background: #edf0f7;
+    color: #efefef;
+    border: 2px solid #edf0f7;
+}
+button.contact-btn {
+    position: absolute;
+    right: 0;
+}
+
+.send-msg-left h2 {
+    padding: 40px;
+}
+
+.send-msg-left {
+    text-align: center;
+}
+.life-coaching-right h2 {
+    padding-top: 42px;
+    padding-bottom: 38px;
+}
+
+.life-coaching-right {
+    margin-left: 30px;
+}
+/*send a message css end*/
+/*end of contact html*/
